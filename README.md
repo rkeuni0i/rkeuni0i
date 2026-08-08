@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=blur)
+![header](https://capsule-render.vercel.app/api?color=timeAuto)
